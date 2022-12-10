@@ -162,7 +162,14 @@ export default class Basic extends React.Component {
         <a href="https://carfacedimonlikefloyd.quora.com">
           Drop dead wall street
         </a>
-        !
+        !{space}
+        <b>
+          Isn't an increase of productivity an outright waste of{space}
+          <a href="https://www.reddit.com/r/ThirdForce/comments/zi2fb1/is_there_no_way_to_prevent_the_office_of_the/">
+            time
+          </a>
+          ?
+        </b>
         <br />
         <a href="https://vau.money">
           <Cable
@@ -182,6 +189,11 @@ export default class Basic extends React.Component {
             scrollTop={this.state.scrollTop}
           />
         </a>
+        <br />
+        Why do we need to hold cash in order to be banked without loans? Why
+        aren’t any consumer facing payment platforms stood by transaction fees?
+        Isn’t a Plaid custom or pay as you go plan the only way to own an
+        electronic depositary fund account balance?
         <br />
         Why won’t banks in the United States allow users to save in investment
         banks without having good character and responsibility?{space}
