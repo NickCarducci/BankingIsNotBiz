@@ -151,7 +151,11 @@ export default class Basic extends React.Component {
               contracts
             </a>
           </div>
-          <div>communism - investment housing labor (constant)</div>
+          <div>
+            communism - investment{space}
+            <a href="https://saverparty.xyz">housing labor</a>
+            {space}(constant)
+          </div>
           <div>socialism - democracy</div>
         </div>
         <h3>
