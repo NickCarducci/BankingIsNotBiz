@@ -137,13 +137,30 @@ export default class Basic extends React.Component {
           style={{
             position: "fixed", //salt bank vaults royalty stewardship
             right: "0px", //living commodities at the equator
-            bottom: "0px",
+            bottom: "0px", //an in balance market has no warranty just open source
             cursor: "pointer"
           }}
           onClick={() => this.props.setBasic()}
         >
           more
         </div>
+        Why do we need to export cash to count it?
+        <br />
+        <br />
+        I’ll{space}
+        <a href="https://www.reddit.com/r/VoteCommunism/comments/zk4jzm/will_the_73_who_have_no_confidence_in_banks_vote/">
+          allow you to geohash spoof
+        </a>
+        {space}taxes to protest cops.
+        <br />
+        <br />
+        The pot calling the kettle black. Is the United States of America
+        reasonable in forcing savers to store cash in security deposits instead
+        of making liquid checkable deposits with electronic fund tethers?
+        <br />
+        <br />
+        Invest or perish. No personal{space}
+        <a href="https://saverparty.xyz">research</a>.
         <div style={{ float: "right", textAlign: "right", maxWidth: "200px" }}>
           <div>
             anarchy - no{space}
