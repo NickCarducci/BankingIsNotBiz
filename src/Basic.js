@@ -144,6 +144,10 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        Is shrinkflation and time to outcome GDP growth net of inflation a
+        measure of accomplishment?
+        <br />
+        <br />
         Doesn't debt require, imply, and signify a certain principal over
         non-currency capital stock?{space}
         <i>
