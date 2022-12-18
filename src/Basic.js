@@ -144,6 +144,29 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        Doesn't debt require, imply, and signify a certain principal over
+        non-currency capital stock?{space}
+        <i>
+          Aren't stock shares, treasury stock currency shares, royalties and
+          either general or industry specific payday loans nonfinancial capital
+          inventory stock?
+        </i>
+        {space}
+        <b>
+          Does finance specifically require, imply, and signify loans lending
+          either goods and currency
+        </b>
+        or fiat debt money? Is lending a payday loan or a lease?
+        <br />
+        <br />
+        On Earth, don't non-politician civilians need to choose either safety or
+        balance? Does a country's development make it a great place to be?
+        Doesn't it becomes less competitive globally except by contracts over
+        balance? Do job requirements make economists, bankers, and the
+        government advise countries grow richer by going into debt?
+        <h3>
+          <a href="https://marginalism.uk">marginalism.uk</a>
+        </h3>
         Why do we need to export cash to count it?
         <br />
         <br />
