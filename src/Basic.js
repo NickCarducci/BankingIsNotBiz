@@ -160,7 +160,11 @@ export default class Basic extends React.Component {
         Why are duty free sales below{space}
         <a href="https://thetax.party">$15,000</a>
         {space}discounted gifts per customer per year{space}
-        <a href="https://vau.money">illegal</a>?
+        <a href="https://vau.money">illegal</a>?{space}
+        <i>
+          Has consumption purchase growth ever been proven to be different than
+          investment in the producer final good cost of living?
+        </i>
         <br />
         <br />
         Is shrinkflation and time to outcome GDP growth net of inflation a
