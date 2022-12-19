@@ -199,7 +199,9 @@ export default class Basic extends React.Component {
         <h3>
           <a href="https://marginalism.uk">marginalism.uk</a>
         </h3>
-        Why do we need to export cash to count it?
+        Why do we need to export cash to count it?{space}Isn't it abusive if my
+        mom gaslights me that banks allow us to transact with cash in security
+        deposits?
         <br />
         <br />
         I’ll{space}
