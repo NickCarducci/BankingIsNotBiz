@@ -152,7 +152,9 @@ export default class Basic extends React.Component {
           surrendered purchase rolling acceptance Schedule
         </a>
         . Is debt required for the government to do its{space}
-        <a href="https://commie.dev/police">job</a>?
+        <a href="https://commie.dev/police">job</a>? video evidence gateway,
+        industry variable public{space}
+        <a href="https://thumbprint.us">docket</a>.
         <br />
         <br />
         Is shrinkflation and time to outcome GDP growth net of inflation a
