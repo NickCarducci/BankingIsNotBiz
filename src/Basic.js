@@ -144,8 +144,24 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        take billings snd charge a big pot;{space}
+        <a href="https://minimalproductduress.quora.com/">lawful != proof</a>.
+        open source is why pharma banking is controlled.{space}
+        <a href="https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details">
+          Federal Reserve Open Market non-repo nor mortage Treasury bond
+          surrendered purchase rolling acceptance Schedule
+        </a>
+        . Is debt required for the government to do its{space}
+        <a href="https://commie.dev/police">job</a>?
+        <br />
+        <br />
         Is shrinkflation and time to outcome GDP growth net of inflation a
-        measure of accomplishment?
+        measure of accomplishment?{space}
+        <i>
+          Doesn't finance allow multiple people to either claim the same spot of
+          land, surrender purchase options, or otherwise physically exclude?
+        </i>
+        {space}(anticipate game made risks)
         <br />
         <br />
         Doesn't debt require, imply, and signify a certain principal over
