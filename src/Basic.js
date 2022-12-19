@@ -157,6 +157,12 @@ export default class Basic extends React.Component {
         <a href="https://thumbprint.us">docket</a>.
         <br />
         <br />
+        Why are duty free sales below{space}
+        <a href="https://thetax.party">$15,000</a>
+        {space}discounted gifts per customer per year{space}
+        <a href="https://vau.money">illegal</a>?
+        <br />
+        <br />
         Is shrinkflation and time to outcome GDP growth net of inflation a
         measure of accomplishment?{space}
         <i>
