@@ -135,7 +135,10 @@ export default class Basic extends React.Component {
       >
         <h3>
           <a href="https://marginalism.uk/classes">liberty</a> is changing
-          objectivity maybe. Republic protects liberty
+          objectivity maybe.{space}
+          <a href="https://commie.dev/police">Republic</a>
+          {space}protects{space}
+          <a href="https://commie.dev/mod">liberty</a>
         </h3>
         <div
           style={{
@@ -148,7 +151,7 @@ export default class Basic extends React.Component {
         >
           more
         </div>
-        take billings snd charge a big pot;{space}
+        take billings and charge a big pot;{space}
         <a href="https://minimalproductduress.quora.com/">lawful != proof</a>.
         open source is why pharma banking is controlled.{space}
         <a href="https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details">
@@ -195,11 +198,13 @@ export default class Basic extends React.Component {
         or fiat debt money? Is lending a payday loan or a lease?
         <br />
         <br />
-        On Earth, don't non-politician civilians need to choose either safety or
-        balance? Does a country's development make it a great place to be?
-        Doesn't it becomes less competitive globally except by contracts over
-        balance? Do job requirements make economists, bankers, and the
-        government advise countries grow richer by going into debt?
+        On Earth, don't{space}
+        <a href="https://commie.dev/anarchy">non-politician civilians</a>
+        {space}need to choose either safety or balance? Does a country's
+        development make it a great place to be? Doesn't it becomes less
+        competitive globally except by contracts over balance? Do job
+        requirements make economists, bankers, and the government advise
+        countries grow richer by going into debt?
         <h3>
           <a href="https://vau.money">vau.money</a>: doesn't invested savings
           make inflation?{space}
