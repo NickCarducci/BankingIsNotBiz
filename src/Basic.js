@@ -202,7 +202,13 @@ export default class Basic extends React.Component {
         government advise countries grow richer by going into debt?
         <h3>
           <a href="https://vau.money">vau.money</a>: doesn't invested savings
-          make inflation?
+          make inflation?{space}
+          <a
+            style={{ color: "darkgreen" }}
+            href="https://fred.stlouisfed.org/graph/?g=XQok"
+          >
+            Are money market shares equivalent to owning the underlying bonds?
+          </a>
         </h3>
         Why do we need to export cash to count it?{space}Isn't it abusive if my
         mom gaslights me that banks allow us to transact with cash in security
