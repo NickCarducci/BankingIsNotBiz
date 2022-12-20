@@ -133,6 +133,10 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
+        <h3>
+          <a href="https://marginalism.uk/classes">liberty</a> is changing
+          objectivity maybe. Republic protects liberty
+        </h3>
         <div
           style={{
             position: "fixed", //salt bank vaults royalty stewardship
@@ -197,7 +201,8 @@ export default class Basic extends React.Component {
         balance? Do job requirements make economists, bankers, and the
         government advise countries grow richer by going into debt?
         <h3>
-          <a href="https://marginalism.uk">marginalism.uk</a>
+          <a href="https://vau.money">vau.money</a>: doesn't invested savings
+          make inflation?
         </h3>
         Why do we need to export cash to count it?{space}Isn't it abusive if my
         mom gaslights me that banks allow us to transact with cash in security
@@ -208,16 +213,26 @@ export default class Basic extends React.Component {
         <a href="https://www.reddit.com/r/VoteCommunism/comments/zk4jzm/will_the_73_who_have_no_confidence_in_banks_vote/">
           allow you to geohash spoof
         </a>
-        {space}taxes to protest cops.
+        {space}taxes to protest cops.{space}
+        <span style={{ color: "chocolate" }}>
+          <a href="https://reddit.com/r/thepolicestate">
+            Plaintiff payable tax
+          </a>
+          . General Maintenance Unit Minimal Viable Duress Target Margin
+          Networks Wholesale Marginal Balance.
+        </span>
         <br />
         <br />
-        The pot calling the kettle black. Is the United States of America
-        reasonable in forcing savers to store cash in security deposits instead
-        of making liquid checkable deposits with electronic fund tethers?
+        <span style={{ textDecoration: "line-through" }}>
+          The pot calling the kettle black. Is the United States of America
+          reasonable in forcing savers to store cash in security deposits
+          instead of making liquid checkable deposits with electronic fund
+          tethers?
+        </span>
         <br />
         <br />
-        Invest or perish. No personal{space}
-        <a href="https://saverparty.xyz">research</a>.
+        Invest (cash advance or gov) or perish (No personal{space}
+        <a href="https://saverparty.xyz">research</a>).
         <div style={{ float: "right", textAlign: "right", maxWidth: "200px" }}>
           <div>
             anarchy - no{space}
