@@ -210,7 +210,7 @@ export default class Basic extends React.Component {
           make inflation?{space}
           <a
             style={{ color: "darkgreen" }}
-            href="https://fred.stlouisfed.org/graph/?g=XQok"
+            href="https://fred.stlouisfed.org/graph/?g=XQrh"
           >
             Are money market shares equivalent to owning the underlying bonds?
           </a>
