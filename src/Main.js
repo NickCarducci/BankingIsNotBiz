@@ -76,7 +76,7 @@ export default class Main extends React.Component {
         }
       };
       check();
-      this.check = setTimeout(check, 4000);
+      this.check = setTimeout(this.check, 4000);
     }
   };
   render() {
