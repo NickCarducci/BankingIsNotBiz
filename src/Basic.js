@@ -133,6 +133,10 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
+        <a href="https://occupywall.us">Tax accountants money launder</a>: The
+        DOLLAR is actually revenuedata.doi.gov based on a checkable deposit vote
+        and constitutional debt is for fallen tax receipts until producer
+        deflation.
         <h3>
           <a href="https://marginalism.uk/classes">liberty</a> is changing
           objectivity maybe.{space}
@@ -293,11 +297,11 @@ export default class Basic extends React.Component {
             scrollTop={this.state.scrollTop}
           />
         </a>
-        <br />
-        Why do we need to hold cash in order to be banked without loans? Why
-        aren’t any consumer facing payment platforms stood by transaction fees?
-        Isn’t a Plaid custom or pay as you go plan the only way to own an
-        electronic depositary fund account balance?
+        <br />(<a href="https://vau.money/login">3 year manual payout</a>) Why
+        do we need to hold cash in order to be banked without loans? Why aren’t
+        any consumer facing payment platforms stood by transaction fees? Isn’t a
+        Plaid custom or pay as you go plan the only way to own an electronic
+        depositary fund account balance?
         <br />
         Why won’t banks in the United States allow users to save in investment
         banks without having good character and responsibility?{space}
