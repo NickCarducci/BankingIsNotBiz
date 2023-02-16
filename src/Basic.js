@@ -133,6 +133,10 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
+        <h4>
+          Taxes for more than entertainment, allowed business, advanced
+          consumption, or direct payment - vau.money terminal
+        </h4>
         <a href="https://occupywall.us">Tax accountants money launder</a>: The
         DOLLAR is actually revenuedata.doi.gov based on a checkable deposit vote
         and constitutional debt is for fallen tax receipts until producer
