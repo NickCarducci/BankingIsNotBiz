@@ -133,6 +133,8 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
+        <h4 style={{ float: "right" }}>taxsecurityfirst.com</h4>
+        Do loans or options have a material stop loss?
         <h4>
           Taxes for more than entertainment, allowed business, advanced
           consumption, or direct payment - vau.money terminal
@@ -153,7 +155,11 @@ export default class Basic extends React.Component {
             position: "fixed", //salt bank vaults royalty stewardship
             right: "0px", //living commodities at the equator
             bottom: "0px", //an in balance market has no warranty just open source
-            cursor: "pointer"
+            cursor: "pointer" //the improveent needs to be tangible, but can be paid by
+            //real property or consumables not explicitly for sale but
+            //employee allowed business cost of goods to be sold, finally.
+            //fraud or closed licensure; (save the rat parachute)
+            //sincere parachute ("; clown, this very evil man.")
           }}
           onClick={() => this.props.setBasic()}
         >
