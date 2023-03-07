@@ -144,6 +144,12 @@ export default class Basic extends React.Component {
           Escape, sustain, or chance: still a chance advantage without a choice
           escape.
         </i>
+        {space}
+        <i style={{ color: "forestgreen" }}>
+          Is it better to borrow student loans, pay directly for the allowed tax
+          exemption, work concurrently in another industry part-time, or partner
+          on the industry context of your degree?
+        </i>
         <hr />
         Somebody{space}
         <a href="https://draintheswamp.quora.com">answer me</a>, Is there
