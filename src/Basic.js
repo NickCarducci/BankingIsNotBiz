@@ -133,8 +133,11 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
-        <h1>microtheory.quora.com</h1>
+        <h1>microtheory.quora.com</h1>Why is folkstyle wrestling considered to
+        be differentiated by having bottom points instead of either tackles in
+        Greco-Roman or more than exposure in freestyle?
         <iframe
+          //Why is folkstyle wrestling considered to be differentiated by having bottom points instead of either tackles in Greco-Roman or more than exposure in freestyle?
           title="Advanced Microeconomics: The Micro-Theory.com Podcast, Microeconomics for Macroeconomists and Laymen"
           allowtransparency="true"
           style={{
