@@ -133,6 +133,25 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
+        <iframe
+          title="Advanced Microeconomics: The Micro-Theory.com Podcast, Microeconomics for Macroeconomists and Laymen"
+          allowtransparency="true"
+          style={{
+            float: "left",
+            border: "none",
+            width: "160px",
+            height: "200px"
+          }}
+          scrolling="no"
+          data-name="pb-iframe-player"
+          src="https://www.podbean.com/player-v2/?i=erve2-dcc91c-pbblog-playlist&share=1&download=1&fonts=Arial&skin=1b1b1b&font-color=ffffff&rtl=0&logo_link=episode_page&btn-skin=f6f6f6&size=480"
+          allowfullscreen=""
+        ></iframe>
+        <h3>
+          <a href="https://saverparty.quora.com/Why-do-leftists-disregard-economics-1">
+            47% want no insurance and 43% want no insurance but medics for all.
+          </a>
+        </h3>
         <h4 style={{ float: "right" }}>taxsecurityfirst.com</h4>
         Do loans or options have a material stop loss?
         <h4>
