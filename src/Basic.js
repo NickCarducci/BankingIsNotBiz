@@ -152,8 +152,18 @@ export default class Basic extends React.Component {
         {space}about{space}
         <a href="https://courttechnology.quora.com">liberty</a>
         {space}and the sectional division of{space}
-        <a href="https://occupyrepublicans.quora.com">labor</a>
-        ? in Market History on Quora
+        <a href="https://occupyrepublicans.quora.com">labor</a>? in Market
+        History on Quora.{space}
+        <i
+          style={{ color: "darkviolet" }}
+          //"make myself silly and say both clutch jinxed anyway"
+          //I need all the mulligans I can get, advanced intertemporal
+          //"look but good no call"
+        >
+          Should developed countries continue admitting they are wasting money
+          by net imports or instead admit they would be wasting money with
+          nationalism over a certain division of global commerce?
+        </i>
         <br />
         <iframe
           //Why is folkstyle wrestling considered to be differentiated by having bottom points instead of either tackles in Greco-Roman or more than exposure in freestyle?
