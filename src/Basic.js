@@ -133,6 +133,7 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
+        <h1>microtheory.quora.com</h1>
         <iframe
           title="Advanced Microeconomics: The Micro-Theory.com Podcast, Microeconomics for Macroeconomists and Laymen"
           allowtransparency="true"
@@ -151,6 +152,9 @@ export default class Basic extends React.Component {
           <a href="https://saverparty.quora.com/Why-do-leftists-disregard-economics-1">
             47% want no insurance and 43% want no insurance but medics for all.
           </a>
+          {space}Binary decision and material marginal utility to benefit Does
+          competition as a Giffen utility prosper the productive use or as a
+          complementary utility ease the material use?
         </h3>
         <h4 style={{ float: "right" }}>taxsecurityfirst.com</h4>
         Do loans or options have a material stop loss?
