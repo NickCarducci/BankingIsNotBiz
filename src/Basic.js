@@ -133,9 +133,18 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
-        <h1>microtheory.quora.com</h1>Why is folkstyle wrestling considered to
-        be differentiated by having bottom points instead of either tackles in
-        Greco-Roman or more than exposure in freestyle?
+        <h1>microtheory.quora.com</h1>Why is{space}
+        <span style={{ color: "cornflowerblue" }}>top</span>
+        {space}folkstyle wrestling{space}
+        <span style={{ color: "cornflowerblue" }}>second to minute points</span>
+        {space}considered to be differentiated by having bottom points instead
+        of either tackles in Greco-Roman or more than exposure in freestyle?
+        {space}
+        <i>
+          Escape, sustain, or chance: still a chance advantage without a choice
+          escape.
+        </i>
+        <hr />
         <iframe
           //Why is folkstyle wrestling considered to be differentiated by having bottom points instead of either tackles in Greco-Roman or more than exposure in freestyle?
           title="Advanced Microeconomics: The Micro-Theory.com Podcast, Microeconomics for Macroeconomists and Laymen"
@@ -151,7 +160,9 @@ export default class Basic extends React.Component {
           src="https://www.podbean.com/player-v2/?i=erve2-dcc91c-pbblog-playlist&share=1&download=1&fonts=Arial&skin=1b1b1b&font-color=ffffff&rtl=0&logo_link=episode_page&btn-skin=f6f6f6&size=480"
           allowfullscreen=""
         ></iframe>
-        <h3>
+        Commercial legislature 2:282 democracy
+        <br />
+        <h3 style={{ margin: "4px 0px" }}>
           <a href="https://saverparty.quora.com/Why-do-leftists-disregard-economics-1">
             47% want no insurance and 43% want no insurance but medics for all.
           </a>
@@ -159,6 +170,7 @@ export default class Basic extends React.Component {
           competition as a Giffen utility prosper the productive use or as a
           complementary utility ease the material use?
         </h3>
+        <br />
         <h4 style={{ float: "right" }}>taxsecurityfirst.com</h4>
         Do loans or options have a material stop loss?
         <h4>
