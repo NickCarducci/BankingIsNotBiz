@@ -145,6 +145,16 @@ export default class Basic extends React.Component {
           escape.
         </i>
         <hr />
+        Somebody{space}
+        <a href="https://draintheswamp.quora.com">answer me</a>, Is there
+        something{space}
+        <a href="https://truncatedwholesaletax.quora.com">funny</a>
+        {space}about{space}
+        <a href="https://courttechnology.quora.com">liberty</a>
+        {space}and the sectional division of{space}
+        <a href="https://occupyrepublicans.quora.com">labor</a>
+        ? in Market History on Quora
+        <br />
         <iframe
           //Why is folkstyle wrestling considered to be differentiated by having bottom points instead of either tackles in Greco-Roman or more than exposure in freestyle?
           title="Advanced Microeconomics: The Micro-Theory.com Podcast, Microeconomics for Macroeconomists and Laymen"
@@ -154,7 +164,7 @@ export default class Basic extends React.Component {
             border: "none",
             width: "160px",
             height: "200px"
-          }}
+          }} //Is there something funny about liberty and the sectional division of labor?
           scrolling="no"
           data-name="pb-iframe-player"
           src="https://www.podbean.com/player-v2/?i=erve2-dcc91c-pbblog-playlist&share=1&download=1&fonts=Arial&skin=1b1b1b&font-color=ffffff&rtl=0&logo_link=episode_page&btn-skin=f6f6f6&size=480"
@@ -168,7 +178,12 @@ export default class Basic extends React.Component {
           </a>
           {space}Binary decision and material marginal utility to benefit Does
           competition as a Giffen utility prosper the productive use or as a
-          complementary utility ease the material use?
+          complementary utility ease the material use?{space}
+          <i style={{ color: "olive" }}>
+            Should debt remain annually or the government always pay last year’s
+            tax falls at 0% interest by fiscal rate temporarily until a
+            commensurate percentage annual change deflation?
+          </i>
         </h3>
         <br />
         <h4 style={{ float: "right" }}>taxsecurityfirst.com</h4>
