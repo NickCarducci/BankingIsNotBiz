@@ -133,6 +133,8 @@ export default class Basic extends React.Component {
           position: "relative"
         }}
       >
+        Are personal, corporate, and lien debt illegal if just tax hikes in the
+        next year to cover annual deficits is constitutional?
         <h1>microtheory.quora.com</h1>Why is{space}
         <span style={{ color: "cornflowerblue" }}>top</span>
         {space}folkstyle wrestling{space}
