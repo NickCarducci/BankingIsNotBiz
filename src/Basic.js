@@ -130,7 +130,7 @@ export default class Basic extends React.Component {
           textAlign: "left",
           width: "100%",
           maxWidth: "600px",
-          position: "relative"
+          position: "relative" //murray field goes bonkers, advantage chip pa"
         }}
       >
         Does Ally Bank help people save by lending their deposits? Why does the
@@ -140,7 +140,17 @@ export default class Basic extends React.Component {
         <br />
         Are personal, corporate, and lien debt illegal if just tax hikes in the
         next year to cover annual deficits is constitutional?
-        <h1>microtheory.quora.com</h1>Why is{space}
+        <h1>
+          microtheory.quora.com{space}&bull;{space}
+          <span
+            style={{
+              fontSize: "25px"
+            }}
+          >
+            bankingisnotabusiness
+          </span>
+        </h1>
+        Why is{space}
         <span style={{ color: "cornflowerblue" }}>top</span>
         {space}folkstyle wrestling{space}
         <span style={{ color: "cornflowerblue" }}>second to minute points</span>
@@ -157,6 +167,10 @@ export default class Basic extends React.Component {
           exemption, work concurrently in another industry part-time, or partner
           on the industry context of your degree?
         </i>
+        {space}saverparty.xyz Isn’t stalling in either freestyle or folkstyle
+        wrestling for winning and not losing in any position like the shot clock
+        is for offensive-possession and not defensive lacrosse and basketball
+        with any score?
         <hr />
         Somebody{space}
         <a href="https://draintheswamp.quora.com">answer me</a>, Is there
@@ -177,6 +191,7 @@ export default class Basic extends React.Component {
           by net imports or instead admit they would be wasting money with
           nationalism over a certain division of global commerce?
         </i>
+        {space}taxsecurityfirst.com
         <br />
         <iframe
           //Why is folkstyle wrestling considered to be differentiated by having bottom points instead of either tackles in Greco-Roman or more than exposure in freestyle?
@@ -208,12 +223,20 @@ export default class Basic extends React.Component {
             commensurate percentage annual change deflation?
           </i>
         </h3>
+        <h4 style={{ float: "right" }}>
+          micro-theory.com
+          <br />
+          vaults.biz/money
+          <br />
+          marginalism.uk
+          <br />
+          commie.dev/mod
+        </h4>
         <br />
-        <h4 style={{ float: "right" }}>taxsecurityfirst.com</h4>
         Do loans or options have a material stop loss?
         <h4>
           Taxes for more than entertainment, allowed business, advanced
-          consumption, or direct payment - vau.money terminal
+          consumption, or direct payment - nick@terminal.vau.money
         </h4>
         <a href="https://occupywall.us">Tax accountants money launder</a>: The
         DOLLAR is actually revenuedata.doi.gov based on a checkable deposit vote
