@@ -143,9 +143,14 @@ export default class Basic extends React.Component {
         </i>
         <br />
         <br />
-        Does Ally Bank help people save by lending their deposits? Why does the
+        Can we write off student loans instead of bail the lenders out? Does
+        Ally Bank help people save by lending their deposits? Why does the
         Office of the Comptroller of the Currency allow lending if it causes
-        bank runs?
+        bank runs?{space}
+        <a href="https://truncatedwholesaletax.com">
+          Can we have a bank that doesn't lend our deposits
+        </a>
+        ?
         <br />
         <br />
         Are personal, corporate, and lien debt illegal if just tax hikes in the
