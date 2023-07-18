@@ -136,7 +136,11 @@ export default class Basic extends React.Component {
         Bankruptcy is Fraud.{space}
         <i>If you borrow by one industry</i>, you can be garnished
         {space}
-        <b>by that industry</b>.
+        <b>by that industry</b>.{space}
+        <i>
+          No compound interest recourse yet avoid compound interest federally to
+          pay on time.
+        </i>
         <br />
         <br />
         Does Ally Bank help people save by lending their deposits? Why does the
@@ -1156,3 +1160,4 @@ export default class Basic extends React.Component {
     );
   }
 }
+
