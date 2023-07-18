@@ -136,10 +136,10 @@ export default class Basic extends React.Component {
         Bankruptcy is Fraud.{space}
         <i>If you borrow by one industry</i>, you can be garnished
         {space}
-        <b>by that industry</b>.{space}
+        <b>by that industry (degree)</b>.{space}
         <i>
-          No compound interest recourse yet avoid compound interest federally to
-          pay on time.
+          No compound (once) interest recourse yet avoid compound interest
+          federally to pay on time.
         </i>
         <br />
         <br />
