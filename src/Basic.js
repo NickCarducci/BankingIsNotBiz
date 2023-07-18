@@ -133,6 +133,12 @@ export default class Basic extends React.Component {
           position: "relative" //murray field goes bonkers, advantage chip pa"
         }}
       >
+        Bankruptcy is Fraud.{space}
+        <i>If you borrow by one industry</i>, you can be garnished
+        {space}
+        <b>by that industry</b>.
+        <br />
+        <br />
         Does Ally Bank help people save by lending their deposits? Why does the
         Office of the Comptroller of the Currency allow lending if it causes
         bank runs?
